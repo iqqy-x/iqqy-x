@@ -4,7 +4,9 @@ I'm a Computer Science student at Brawijaya University with a deep interest in *
 
 📫 **Connect with me:**
 - **Email:** [akhmdashdq@gmail.com](mailto:akhmdashdq@gmail.com)
-- **LinkedIn:** `https://linkedin.com/in/brilliantakhmadassiddiqqy` Feel free to explore my repositories or reach out!
+- **LinkedIn:** [Brilliant Akhmad Assiddiqqy](https://linkedin.com/in/brilliantakhmadassiddiqqy)
+
+Feel free to explore my repositories or reach out!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iqqy-x/iqqy-x/output/github-contribution-grid-snake-dark.svg">
