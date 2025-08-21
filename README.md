@@ -1,6 +1,6 @@
 # Hi there, I'm Brilliant Akhmad Assiddiqqy 👋
 
-I'm a Computer Science student at Brawijaya University with a deep interest in **Robotics** and **Artificial Intelligence**. Currently, I'm the Person in Charge of Programming for the ROBOTIIK Quadcopter team, where I focus on building autonomous systems.
+I'm a Computer Engineering student at Brawijaya University with a deep interest in **Robotics** and **Artificial Intelligence**. Currently, I'm the Person in Charge of Programming for the ROBOTIIK Quadcopter team, where I focus on building autonomous systems.
 
 📫 **Connect with me:**
 - **Email:** [akhmdashdq@gmail.com](mailto:akhmdashdq@gmail.com)
