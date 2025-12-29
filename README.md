@@ -48,7 +48,7 @@ Currently, I serve as the **Person in Charge of Programming** for the **ROBOTIIK
 ---
 
 📫 **Connect with me:**
-- **Email:** [akh@gmail.com](mailto:akh@gmail.com)
-- **LinkedIn:** [Brilliant Akhmad Assiddiqqyrian](https://linkedin.com/in/rian)
+- **Email:** [akhmdashdq@gmail.com](mailto:akhmdashdq@gmail.com)
+- **LinkedIn:** [Brilliant Akhmad Assiddiqqy](https://linkedin.com/in/brilliantakhmadassiddiqqy)
 
 *Feel free to explore my repositories! I'm always open to discussing AI, drones, and edge computing.*
