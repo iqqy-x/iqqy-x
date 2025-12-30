@@ -8,7 +8,7 @@ Currently, I serve as the **Person in Charge of Programming** for the **ROBOTIIK
 
 ---
 
-### 🛠️ Languages & Tools
+### Technical Skills
 
 **Machine Learning & AI**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
