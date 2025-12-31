@@ -36,15 +36,6 @@ Currently, I serve as the **Person in Charge of Programming** for the **ROBOTIIK
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
 
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iqqy-x/iqqy-x/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iqqy-x/iqqy-x/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iqqy-x/iqqy-x/output/github-contribution-grid-snake.svg">
-</picture>
-
 ---
 
 📫 **Connect with me:**
