@@ -1,10 +1,16 @@
-# Hi there, I'm Brilliant Akhmad Assiddiqqy! 👋
+<h1 align="center">Hi there, I'm Brilliant Akhmad Assiddiqqy! 👋</h1>
 
-**Computer Engineering Student | Robotics & AI Enthusiast**
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Robotics+%26+AI+Enthusiast;Building+Intelligent+Systems" alt="Typing SVG" />
+  </a>
+  <br><br>
+  <a href="https://iqqy.my.id">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Website-iqqy.my.id-0EA5E9?style=for-the-badge" alt="Website"/>
+  </a>
+</p>
 
-I am a Computer Engineering student at **Brawijaya University** with a passion for building intelligent systems.
-
-Currently, I serve as the **Person in Charge of Programming** for the **ROBOTIIK Quadcopter Team**. My journey involves bridging the gap between software and hardware applying Computer Vision algorithms to real world environments and exploring how to make these systems efficient, scalable, and reliable.
+I am a Computer Engineering student at **Brawijaya University** with a passion for building intelligent systems. Currently, I serve as the **Person in Charge of Programming** for the **ROBOTIIK Quadcopter Team**. My journey involves bridging the gap between software and hardware, applying Computer Vision algorithms to real world environments and exploring how to make these systems efficient, scalable, and reliable.
 
 ---
 
