@@ -35,8 +35,8 @@ I am a Computer Engineering student at **Brawijaya University** with a passion f
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-EB891B?style=for-the-badge&logo=gazebo&logoColor=white)
 ![PX4](https://img.shields.io/badge/PX4-000000?style=for-the-badge&logo=px4&logoColor=white)
-![ArduPilot](https://img.shields.io/badge/ArduPilot-82B048?style=for-the-badge&logo=ardupilot&logoColor=white)
-![SLAM](https://img.shields.io/badge/SLAM-Navigation-4053D6?style=for-the-badge)
+![ArduPilot](https://img.shields.io/badge/ArduPilot-FFC107?style=for-the-badge&logo=ardupilot&logoColor=black)
+![SLAM](https://img.shields.io/badge/SLAM-708090?style=for-the-badge&logo=robot-operating-system&logoColor=white)
 
 ### 📡 IoT & Hardware
 ![Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
