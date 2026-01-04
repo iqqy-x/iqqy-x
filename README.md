@@ -42,6 +42,6 @@ Currently, I serve as the **Person in Charge of Programming** for the **ROBOTIIK
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhmdashdq@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brilliantakhmadassiddiqqy)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/USERNAME_KAMU_DISINI)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akhmdsqy)
 
 *Feel free to explore my repositories! I'm always open to discussing AI, drones, and edge computing.*
