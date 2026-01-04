@@ -23,6 +23,7 @@ I am a Computer Engineering student at **Brawijaya University** with a passion f
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 ![RT-DETR](https://img.shields.io/badge/RT--DETR-FF9900?style=for-the-badge&logo=huggingface&logoColor=white)
 ![ViT](https://img.shields.io/badge/ViT-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 ### 🛠 Deployment & Engineering
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -38,6 +39,7 @@ I am a Computer Engineering student at **Brawijaya University** with a passion f
 ![SLAM](https://img.shields.io/badge/SLAM-Navigation-4053D6?style=for-the-badge)
 
 ### 📡 IoT & Hardware
+![Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
