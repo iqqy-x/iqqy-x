@@ -14,7 +14,7 @@ I am a Computer Engineering student at **Brawijaya University** with a passion f
 
 ---
 
-### Technical Skills
+### Tech Stack
 
 ### 🤖 Machine Learning & AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
