@@ -20,9 +20,8 @@ I am a Computer Engineering student at Brawijaya University with a passion for *
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![RT-DETR](https://img.shields.io/badge/RT--DETR-FF9900?style=for-the-badge&logo=huggingface&logoColor=white)
-![ViT](https://img.shields.io/badge/ViT-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 ### 🛠 Deployment & Engineering
