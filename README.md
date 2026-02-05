@@ -10,7 +10,7 @@
   </a>
 </p>
 
-I am a Computer Engineering student at Brawijaya University with a passion for **Artificial Intelligence** and **Robotics**. As **Person in Charge of Programming** for the **ROBOTIIK Quadcopter Team**, I work on software development for quadcopter systems. Outside of that, I enjoy exploring different areas of AI through personal and professsional projects.
+I am a Computer Engineering student at Brawijaya University with a passion for **Artificial Intelligence** and **Robotics**. As **Technical Mentor** for the **ROBOTIIK Quadcopter Team**, I provide technical guidance on UAV software systems. Outside of that, I enjoy exploring different areas of AI through personal and professsional projects.
 
 ---
 
