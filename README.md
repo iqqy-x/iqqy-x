@@ -53,4 +53,6 @@ I am a Computer Engineering student at Brawijaya University with a passion for *
   <a href="https://linkedin.com/in/brilliantakhmadassiddiqqy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/akhmdsqy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  &nbsp;&nbsp;
+  <a href="https://huggingface.co/iqqy-x"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
 </p>
