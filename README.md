@@ -10,7 +10,7 @@
   </a>
 </p>
 
-Computer Engineering student at Brawijaya University, currently interning as **Data Intelligence at Astra International**. Interested in AI, Data, and Robotics. Technical Mentor at ROBOTIIK Quadcopter Team.
+I am a Computer Engineering student at Brawijaya University with a passion for **Artificial Intelligence** and **Robotics**. As a **Technical Mentor** for the **ROBOTIIK Quadcopter Team**, I provide technical guidance on UAV software systems. Outside of that, I enjoy exploring different areas of AI through personal and professsional projects.
 
 ---
 
