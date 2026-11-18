@@ -6,7 +6,7 @@
   </a>
   <br><br>
   <a href="https://iqqy.my.id">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Website-iqqy.my.id-0EA5E9?style=for-the-badge" alt="Website"/>
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Website-iqqy.vercel.app-0EA5E9?style=for-the-badge" alt="Website"/>
   </a>
 </p>
 
