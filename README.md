@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Robotics+%26+AI+Enthusiast" alt="Typing SVG" />
   </a>
   <br><br>
-  <a href="https://iqqy.my.id">
+  <a href="https://iqqy.vercel.app">
     <img src="https://img.shields.io/badge/🌐_Visit_My_Website-iqqy.vercel.app-0EA5E9?style=for-the-badge" alt="Website"/>
   </a>
 </p>
